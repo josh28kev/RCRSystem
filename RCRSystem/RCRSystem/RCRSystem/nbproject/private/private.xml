@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaFacturacion.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaInicio.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Compras_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/model/Compras_Modelo.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Usuario_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Facturar_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaPrincipal.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Progreso_Invent_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaFacturaNacional.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaEdicionInventario.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Ventas_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/Aplicacion.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaPrincEncargadoCompras.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Progreso_Menu_Prin_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Factura_Exportacion_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaFacturaExportacion.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Progreso_Ventana_Fact.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Inventario_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentIngresarRegCompra.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/model/Ventas_Modelo.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaVenta.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/view/VentanaAdminClientes.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/model/Total_Material_Lista_Empaque_Modelo_Tabla.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Factura_Nacional_Controlador.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/model/Facturar_Modelo.java</file>
+            <file>file:/C:/RCRSystem/RCRSystem/RCRSystem/src/rcrsystem/presentation/controller/Progreso_Venta_Controlador.java</file>
+        </group>
+    </open-files>
+</project-private>
